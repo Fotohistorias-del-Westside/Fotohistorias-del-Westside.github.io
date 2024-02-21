@@ -9,10 +9,12 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Fotohistoria del Westside"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Preservando el pasado, celebrando el presente: Fotohistorias del Westside, donde los recuerdos comunitarios cobran vida a través del arte."
+# english: "Preserving the past, celebrating the present: Fotohistorias del Westside, where community memories come to life through art."
+# "Preservando el pasado, celebrando el presente: Fotohistorias del Westside, donde los recuerdos comunitarios cobran vida a través del arte."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
