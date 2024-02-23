@@ -12,4 +12,4 @@ Alejandro Benavidez de un año sentado en la mesa junto a su hermano Gilberto Be
 
 One year old Alejandro Benavidez sitting on table next to hermano Gilberto Benavidez.
 <!--more-->
-{% include image_caption.html imageurl="/images/1913P.png" title="Alejandro Benavidez and Gilberto Benavidez" caption="Image courtesy of Marta Benavidez Vasquez." %}
+{% include image_caption.html imageurl="/images/1913C.png" title="Alejandro Benavidez and Gilberto Benavidez" caption="Image courtesy of Marta Benavidez Vasquez." %}
