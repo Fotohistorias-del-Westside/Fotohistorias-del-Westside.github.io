@@ -34,8 +34,6 @@ navigation:
     url: /
   - text: About
     url: /about/
-    - text: Gallery
-    url: /postgallery/
   - text: Style Guide
     url: /style-guide/
   - text: Tags
