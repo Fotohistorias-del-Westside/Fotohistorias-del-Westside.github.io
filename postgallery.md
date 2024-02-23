@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
+layout: gallerytest
+title: Gallery
+description: Attempted gallery WIP
 feature_image: images/about.jpg
 ---
 
