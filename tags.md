@@ -1,5 +1,6 @@
 ---
 layout: tags
-title: Tags
-description: A tags page for Scriptor Jekyll theme
+title: Archives
+description: An archive page by year for Fotohistoria Banners
+permalink: /tags.html
 ---
