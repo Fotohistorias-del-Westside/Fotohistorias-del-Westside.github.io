@@ -36,8 +36,7 @@ navigation:
     url: /about/
   - text: Style Guide
     url: /style-guide/
-  - text: Tags
-    url: /tags/
+
 
 
 # The shortname for your Disqus site to enable comments.
