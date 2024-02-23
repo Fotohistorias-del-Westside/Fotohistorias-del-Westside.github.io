@@ -20,7 +20,7 @@ description: "Preservando el pasado, celebrando el presente: Fotohistorias del W
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://fotohistorias-del-westside.github.io"
 
 # Favicon
 favicon: images/favicon.png
