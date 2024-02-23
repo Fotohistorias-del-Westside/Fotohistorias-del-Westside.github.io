@@ -11,5 +11,5 @@ Text:
 Alejandro Benavidez de un año sentado en la mesa junto a su hermano Gilberto Benavidez.
 
 One year old Alejandro Benavidez sitting on table next to hermano Gilberto Benavidez.
-<!--more-->
+
 {% include image_caption.html imageurl="/images/1913C.png" title="Alejandro Benavidez and Gilberto Benavidez" caption="Image courtesy of Marta Benavidez Vasquez." %}
