@@ -11,6 +11,6 @@ Text:
 Estudiantes de JT Brackenridge. Adrian Sánchez, en la fila del frente a la derecha, fue el padre de Enrique Sánchez, defensor de la comunidad del Westside.
 
 JT Brackenridge Students. Adrian Sanchez, front row right, was father of Enrique Sanchez- Westside Community Advocate.
-
+<!--more-->
 {% include image_caption.html imageurl="/images/1906C.png" title="1906 JT Brackenridge Students" caption="Image courtesy of Isabel and Enrique Sanchez." %}
 
