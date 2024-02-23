@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: Tags
-description: An archive page by year for Fotohistoria Banners
+description: A tags page for Scriptor Jekyll theme
 ---
