@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Post Gallery</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+    .post {
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+    .post img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .post-title {
+      padding: 10px;
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+    }
+    .post-title a {
+      color: #fff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Post Gallery</h1>
+    <div class="gallery">
+      <div class="post">
+        <img src="post1.jpg" alt="Post 1">
+        <div class="post-title"><a href="post1.html">Post 1 Title</a></div>
+      </div>
+      <div class="post">
+        <img src="post2.jpg" alt="Post 2">
+        <div class="post-title"><a href="post2.html">Post 2 Title</a></div>
+      </div>
+      <!-- Add more posts as needed -->
+    </div>
+  </div>
+</body>
+</html>
